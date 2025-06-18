@@ -1,7 +1,7 @@
 package main
 
 import (
-	pb "go-grpc/proto"
+	pb "grpc-go-project/proto"
 	"log"
 	"time"
 )
