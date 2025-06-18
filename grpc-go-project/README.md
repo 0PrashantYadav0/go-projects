@@ -9,7 +9,7 @@ This project demonstrates different types of gRPC communication patterns using G
 
 ## Project Structure
 
-```
+```plaintext
 grpc-go-project/
 ├── proto/           # Protocol buffer definitions
 │   └── greet.proto  # Service definitions
