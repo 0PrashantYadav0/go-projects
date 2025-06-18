@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	pb "go-grpc/proto"
+	pb "grpc-go-project/proto"
 	"io"
 	"log"
 	"time"
