@@ -1,6 +1,7 @@
 # gRPC Go Project
 
 This project demonstrates different types of gRPC communication patterns using Go:
+
 - Unary RPC
 - Server streaming RPC
 - Client streaming RPC
@@ -91,7 +92,6 @@ go run *.go
 4. **Bidirectional Streaming** - Both client and server send multiple messages
 
 To test different communication patterns, uncomment the respective function calls in `client/main.go`.
-```
 
 ## License
 
